@@ -38,7 +38,7 @@ O Focus Timer é um projeto para representar o ensinamento do Java Script.
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1263574581735209131).
 É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
-Ou veja o projeto funcionando através do [SITE](https://rafael-rodrigues23.github.io/Exercicio06_IMC/)
+Ou veja o projeto funcionando através do [SITE](https://rafael-rodrigues23.github.io/Exercicio07_FocusTime/)
 
 ## :memo: Licença
 
